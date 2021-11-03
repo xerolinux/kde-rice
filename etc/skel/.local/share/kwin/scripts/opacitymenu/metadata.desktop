@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=Adds a menu to change window's opacity value to the user actions (Alt+F3) menu
+Encoding=UTF-8
+Icon=preferences-system-windows
+Keywords=
+Name=Opacity Menu
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Martin Gräßlin
+X-KDE-PluginInfo-Email=mgraesslin@kde.org
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=opacitymenu
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-DefaultSize=200,100
+X-Plasma-MainScript=code/opacitymenu.js
+X-Plasma-RemoteLocation=

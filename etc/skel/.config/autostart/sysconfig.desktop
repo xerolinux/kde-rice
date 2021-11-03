@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Qt;System;
+Comment[en_US]=Configure Your System
+Comment=Configure Your System
+Exec=/usr/local/bin/sysconfig
+GenericName[en_US]=System Config
+GenericName=System Config
+Icon=system-config-displayca
+MimeType=
+Name[en_US]=Configure XeroLinux
+Name=Configure XeroLinux
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

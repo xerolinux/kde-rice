@@ -12,16 +12,20 @@ Id_1=290014f1-ab74-4eff-ab3d-0f5e50435119
 Number=1
 Rows=1
 
+[Effect-Blur]
+BlurStrength=4
+NoiseStrength=0
+
 [Effect-PresentWindows]
 BorderActivateAll=9
 
 [Effect-Wobbly]
-Drag=97
-MoveFactor=25
-Stiffness=1
-WobblynessLevel=4
+Drag=85
+Stiffness=10
+WobblynessLevel=1
 
 [Plugins]
+blurEnabled=true
 desktopchangeosdEnabled=false
 force-decorations-gtk3Enabled=true
 forceblurEnabled=true

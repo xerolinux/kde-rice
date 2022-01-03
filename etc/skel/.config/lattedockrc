@@ -1,7 +1,3 @@
-[DownloadDialog Settings]
-VGA-1 Height 2560x1348=600
-VGA-1 Width 2560x1348=980
-
 [KFileDialog Settings]
 Recent Files[$e]=drill-down-icon-2.svg,file:///usr/share/latte/appmenu.svg,file:$HOME/.config/latte/Xero.layout.latte
 Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/.config/latte/,file:$HOME/Documents/,file:$HOME/Downloads/,file:$HOME/.config/,file:///usr/share/latte/
@@ -27,10 +23,6 @@ windowSize=980,630
 
 [PlasmaThemeExtended]
 outlineWidth=1
-
-[ScreenConnectors]
-10=Virtual-1:::0,0 1920x1080
-11=VGA-1:::0,0 1920x1080
 
 [UniversalSettings]
 badges3DStyle=false

@@ -30,7 +30,6 @@ Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
 [Plugins]
 blurEnabled=true
 desktopchangeosdEnabled=false
-disablepanelapperinmaximizedwindowEnabled=true
 force-decorations-gtk3Enabled=true
 forceblurEnabled=true
 kwin4_effect_fadedesktopEnabled=true

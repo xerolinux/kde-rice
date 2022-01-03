@@ -6,3 +6,6 @@ ToolBarsMovable=Disabled
 [Open-with settings]
 CompletionMode=1
 History=yak,pamac-tray
+
+[UiSettings]
+ColorScheme=Default

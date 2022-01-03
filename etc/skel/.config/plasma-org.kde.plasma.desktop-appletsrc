@@ -26,7 +26,7 @@ ToolBoxButtonState=topcenter
 ToolBoxButtonX=442
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/xero/.local/share/wallpapers/XeroWall17.jpg
+Image=file:///usr/share/defaultbg/XeroLinux.png
 SlidePaths=/usr/share/defaultbg,$HOME/.local/share/wallpapers/
 
 [Containments][2]

@@ -28,9 +28,6 @@ windowSize=980,630
 [PlasmaThemeExtended]
 outlineWidth=1
 
-[PlasmaTransientsConfig]
-PreloadWeight=0
-
 [ScreenConnectors]
 10=Virtual-1:::0,0 1920x1080
 11=VGA-1:::0,0 1920x1080

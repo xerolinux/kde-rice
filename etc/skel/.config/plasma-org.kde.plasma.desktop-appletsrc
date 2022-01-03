@@ -7,8 +7,6 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
-ItemGeometries-1650x1050=
-ItemGeometriesHorizontal=
 activityId=cd915191-804f-4d50-8fc3-f8e5c0279f54
 formfactor=0
 immutability=1
@@ -20,6 +18,7 @@ wallpaperplugin=org.kde.image
 [Containments][1][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
+ToolBoxButtonY=32
 
 [Containments][1][General]
 ToolBoxButtonState=topcenter

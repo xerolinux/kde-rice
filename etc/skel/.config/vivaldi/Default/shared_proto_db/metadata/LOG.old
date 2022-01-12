@@ -1,3 +1,2 @@
-2021/08/24-19:22:12.382 a60 Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/shared_proto_db/metadata/MANIFEST-000001
-2021/08/24-19:22:12.383 a60 Recovering log #3
-2021/08/24-19:22:12.461 a60 Reusing old log /home/liveuser/.config/vivaldi/Default/shared_proto_db/metadata/000003.log 
+2022/01/12-18:28:01.743 cb3 Creating DB /home/liveuser/.config/vivaldi/Default/shared_proto_db/metadata since it was missing.
+2022/01/12-18:28:01.743 cb3 Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/shared_proto_db/metadata/MANIFEST-000001

@@ -1,13 +1,13 @@
 {
    "ad-blocking-rules": {
       "counters": {
-
+         "stats.g.doubleclick.net": 1
       },
       "deleted-presets": [  ],
       "enabled": true,
       "exceptions-type": 1,
       "exempt_list": [  ],
-      "index-checksum": "2889417844",
+      "index-checksum": "494843255",
       "known-sources": [ {
          "allow-abp-snippets": false,
          "group": 1,
@@ -211,18 +211,18 @@
          "group": 1,
          "has-tracker-infos": false,
          "homepage": "https://easylist.to/",
-         "invalid-rules-count": 1,
+         "invalid-rules-count": 0,
          "last-fetch-result": 0,
-         "last-upate": "13274233050312813",
+         "last-upate": "13286485690127708",
          "license": "https://easylist.to/pages/licence.html",
-         "next-fetch": "13274578650312813",
+         "next-fetch": "13286832970127708",
          "redirect": "",
-         "rules-list-checksum": "1944171544",
+         "rules-list-checksum": "871937606",
          "source-url": "https://downloads.vivaldi.com/easylist/easylist-current.txt",
          "title": "EasyList",
-         "unsupported-rules-count": 55,
-         "valid-rules-count": 54546,
-         "version": "202108222303"
+         "unsupported-rules-count": 78,
+         "valid-rules-count": 57306,
+         "version": "202201120428"
       }, {
          "allow-abp-snippets": true,
          "expires": "3600000000",
@@ -231,16 +231,16 @@
          "homepage": "https://github.com/abp-filters/abp-filters-anti-cv",
          "invalid-rules-count": 0,
          "last-fetch-result": 0,
-         "last-upate": "13274295793165233",
+         "last-upate": "13286485689900864",
          "license": "",
-         "next-fetch": "13274318893165233",
+         "next-fetch": "13286507529900864",
          "redirect": "",
-         "rules-list-checksum": "1053625379",
+         "rules-list-checksum": "3839847521",
          "source-url": "https://downloads.vivaldi.com/lists/abp/abp-filters-anti-cv-current.txt",
          "title": "ABP filters",
-         "unsupported-rules-count": 38,
-         "valid-rules-count": 1007,
-         "version": "202108232050"
+         "unsupported-rules-count": 45,
+         "valid-rules-count": 1131,
+         "version": "202201112044"
       }, {
          "allow-abp-snippets": false,
          "expires": "345600000000",
@@ -249,11 +249,11 @@
          "homepage": "https://vivaldi.com/",
          "invalid-rules-count": 0,
          "last-fetch-result": 0,
-         "last-upate": "13274233050164717",
+         "last-upate": "13286485689792766",
          "license": "",
-         "next-fetch": "13274578950164717",
+         "next-fetch": "13286832789792766",
          "redirect": "",
-         "rules-list-checksum": "84775391",
+         "rules-list-checksum": "856773859",
          "source-url": "https://downloads.vivaldi.com/lists/vivaldi/partners-current.txt",
          "title": "VivaldiPartnersList",
          "unsupported-rules-count": 0,
@@ -263,13 +263,13 @@
    },
    "tracking-rules": {
       "counters": {
-         "www.googletagmanager.com": 2
+
       },
       "deleted-presets": [  ],
       "enabled": true,
       "exceptions-type": 1,
       "exempt_list": [  ],
-      "index-checksum": "2072501641",
+      "index-checksum": "1607767237",
       "known-sources": [  ],
       "process_list": [  ],
       "rule-sources": [ {
@@ -280,15 +280,15 @@
          "homepage": "",
          "invalid-rules-count": 0,
          "last-fetch-result": 0,
-         "last-upate": "13274233050371730",
+         "last-upate": "13286485689663240",
          "license": "",
-         "next-fetch": "13274277690371730",
+         "next-fetch": "13286530449663240",
          "redirect": "",
-         "rules-list-checksum": "4070674103",
+         "rules-list-checksum": "4230220862",
          "source-url": "https://downloads.vivaldi.com/ddg/tds-v2-current.json",
          "title": "DuckDuckGo blocking list",
          "unsupported-rules-count": 0,
-         "valid-rules-count": 2897,
+         "valid-rules-count": 3203,
          "version": "0"
       } ]
    },

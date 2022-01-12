@@ -1,3 +1,2 @@
-2021/08/24-19:22:14.893 a41 Recovering log #7
-2021/08/24-19:22:14.893 a41 Delete type=0 #7
-2021/08/24-19:22:14.893 a41 Delete type=3 #6
+2022/01/12-18:28:03.865 cae Creating DB /home/liveuser/.config/vivaldi/Default/data_reduction_proxy_leveldb since it was missing.
+2022/01/12-18:28:03.866 cae Delete type=3 #1

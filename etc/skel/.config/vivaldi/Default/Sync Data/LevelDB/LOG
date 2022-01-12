@@ -1,3 +1,3 @@
-2021/09/05-23:50:16.328 870 Reusing MANIFEST /home/xero/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/09/05-23:50:16.328 870 Recovering log #3
-2021/09/05-23:50:16.337 870 Reusing old log /home/xero/.config/vivaldi/Default/Sync Data/LevelDB/000003.log 
+2022/01/12-18:35:54.865 122e Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/12-18:35:54.866 122e Recovering log #3
+2022/01/12-18:35:54.866 122e Reusing old log /home/liveuser/.config/vivaldi/Default/Sync Data/LevelDB/000003.log 

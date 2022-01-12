@@ -1,3 +1,2 @@
-2021/08/24-19:22:15.196 a72 Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/GCM Store/Encryption/MANIFEST-000001
-2021/08/24-19:22:15.196 a72 Recovering log #3
-2021/08/24-19:22:15.197 a72 Reusing old log /home/liveuser/.config/vivaldi/Default/GCM Store/Encryption/000003.log 
+2022/01/12-18:28:03.960 cab Creating DB /home/liveuser/.config/vivaldi/Default/GCM Store/Encryption since it was missing.
+2022/01/12-18:28:03.960 cab Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/GCM Store/Encryption/MANIFEST-000001

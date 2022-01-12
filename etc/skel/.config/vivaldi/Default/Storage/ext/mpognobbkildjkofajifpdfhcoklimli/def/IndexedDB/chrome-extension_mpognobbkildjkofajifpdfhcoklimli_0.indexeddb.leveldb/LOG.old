@@ -1,3 +1,2 @@
-2021/08/24-19:22:13.412 a72 Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/IndexedDB/chrome-extension_mpognobbkildjkofajifpdfhcoklimli_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/24-19:22:13.412 a72 Recovering log #3
-2021/08/24-19:22:13.413 a72 Reusing old log /home/liveuser/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/IndexedDB/chrome-extension_mpognobbkildjkofajifpdfhcoklimli_0.indexeddb.leveldb/000003.log 
+2022/01/12-18:28:02.267 cb2 Creating DB /home/liveuser/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/IndexedDB/chrome-extension_mpognobbkildjkofajifpdfhcoklimli_0.indexeddb.leveldb since it was missing.
+2022/01/12-18:28:02.267 cb2 Reusing MANIFEST /home/liveuser/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/IndexedDB/chrome-extension_mpognobbkildjkofajifpdfhcoklimli_0.indexeddb.leveldb/MANIFEST-000001

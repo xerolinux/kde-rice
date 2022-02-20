@@ -38,6 +38,7 @@ macsimizeEnabled=false
 minimizeallEnabled=true
 movewindowtocenterEnabled=true
 opacitymenuEnabled=true
+overviewEnabled=true
 screenSnapping5Enabled=true
 sheetEnabled=true
 slideEnabled=false
@@ -52,7 +53,7 @@ patterns=dolphin\nyakuake\nurxvt\nkeepassxc\nkonsole\nthunar
 
 [TabBox]
 BorderActivate=9
-LayoutName=preview_reel
+LayoutName=flipswitch
 
 [Windows]
 Placement=Centered

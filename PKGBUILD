@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=kde-rice
 _destname1="/etc"
-pkgver=22.02
-pkgrel=5
+pkgver=22.03
+pkgrel=3
 pkgdesc="Desktop Config for XeroLinux"
 arch=('any')
 url="https://github.com/xerolinux"

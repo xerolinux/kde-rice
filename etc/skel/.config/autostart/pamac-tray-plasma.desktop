@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=pamac-tray-plasma
+Icon=
+Name=pamac-tray-plasma
+Path=
+Terminal=False
+Type=Application

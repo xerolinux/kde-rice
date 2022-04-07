@@ -137,6 +137,9 @@ showIconsRootLevel=true
 showRecentDocs=false
 useCustomButtonImage=true
 
+[Containments][2][Applets][4][Shortcuts]
+global=Meta+F1
+
 [Containments][2][Applets][5]
 immutability=1
 plugin=org.kde.plasma.panelspacer

@@ -28,6 +28,7 @@ WobblynessLevel=1
 Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 
 [Plugins]
+autocomposerEnabled=true
 blurEnabled=true
 desktopchangeosdEnabled=false
 force-decorations-gtk3Enabled=true

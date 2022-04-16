@@ -1,7 +1,7 @@
 [Desktop Entry]
-Exec=pamac-tray-plasma
+Exec=bauh-tray
 Icon=
-Name=pamac-tray-plasma
+Name=bauh-tray
 Path=
 Terminal=False
 Type=Application

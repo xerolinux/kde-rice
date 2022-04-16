@@ -15,8 +15,6 @@ echo "Deleting the work folder if one exists"
 # Below command will backup everything inside the project folder
 git add --all .
 
-git diff HEAD
-
 # Give a comment to the commit if you want
 echo "####################################"
 echo "Write your commit comment!"

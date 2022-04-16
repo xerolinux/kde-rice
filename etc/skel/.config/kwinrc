@@ -30,11 +30,14 @@ Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 [Plugins]
 autocomposerEnabled=true
 blurEnabled=true
+contrastEnabled=false
 desktopchangeosdEnabled=false
 force-decorations-gtk3Enabled=true
 forceblurEnabled=true
 kwin4_effect_fadedesktopEnabled=true
-kwin4_effect_maximize_xrenderEnabled=true
+kwin4_effect_frozenappEnabled=false
+kwin4_effect_maximizeEnabled=false
+kwin4_effect_morphingpopupsEnabled=false
 macsimizeEnabled=false
 minimizeallEnabled=true
 movewindowtocenterEnabled=true

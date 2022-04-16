@@ -44,4 +44,4 @@ ui:
     updates_icon: /usr/share/b-tray/upd.png
 updates:
   ask_for_reboot: false
-  check_interval: 5
+  check_interval: 60

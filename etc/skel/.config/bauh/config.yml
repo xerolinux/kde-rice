@@ -33,12 +33,12 @@ system:
 ui:
   auto_scale: true
   hdpi: true
-  qt_style: fusion
+  qt_style: kvantum-dark
   scale_factor: 1.0
   system_theme: true
   table:
     max_displayed: 100
-  theme: darcula
+  theme: light
   tray:
     default_icon: /usr/share/b-tray/def.png
     updates_icon: /usr/share/b-tray/upd.png

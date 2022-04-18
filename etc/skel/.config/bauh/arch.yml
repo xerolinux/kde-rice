@@ -13,7 +13,7 @@ edit_aur_pkgbuild: false
 mirrors_sort_limit: 5
 optimize: false
 prefer_repository_provider: true
-refresh_mirrors_startup: false
+refresh_mirrors_startup: true
 repositories: true
 repositories_mthread_download: false
 suggest_optdep_uninstall: false

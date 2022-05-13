@@ -1,5 +1,4 @@
 [ActionPlugins][0]
-MiddleButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
 wheel:Vertical;NoModifier=org.kde.switchdesktop
 
@@ -8,6 +7,7 @@ RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
 ItemGeometries-1024x768=
+ItemGeometries-1280x800=
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
 activityId=cd915191-804f-4d50-8fc3-f8e5c0279f54
@@ -24,11 +24,12 @@ DialogWidth=720
 ToolBoxButtonY=32
 
 [Containments][1][Configuration]
-PreloadWeight=34
+PreloadWeight=26
 
 [Containments][1][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=577
+ToolBoxButtonX=576
+ToolBoxButtonY=32
 
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/defaultbg/XeroLinux.png
@@ -118,6 +119,13 @@ plugin=org.kde.plasma.appmenu
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=34
 
+[Containments][2][Applets][30]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][2][Applets][30][Configuration]
+url=file:///usr/share/applications/system-tool.desktop
+
 [Containments][2][Applets][4]
 immutability=1
 plugin=org.kde.plasma.kicker
@@ -173,14 +181,14 @@ PreloadWeight=59
 SystrayContainmentId=9
 
 [Containments][2][ConfigDialog]
-DialogHeight=78
+DialogHeight=84
 DialogWidth=1920
 
 [Containments][2][Configuration]
 PreloadWeight=34
 
 [Containments][2][General]
-AppletOrder=4;27;26;28;3;6;7;5;25;23;24;8
+AppletOrder=4;27;26;28;3;6;7;5;25;23;24;8;30
 
 [Containments][9]
 activityId=
@@ -291,9 +299,9 @@ DialogWidth=1094
 PreloadWeight=34
 
 [Containments][9][General]
-extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.printmanager
+extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.printmanager,org.kde.plasma.volume
 hiddenItems=Yakuake,NoMachineMonitor
-knownItems=org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.printmanager
+knownItems=org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.printmanager,org.kde.plasma.volume
 shownItems=caffeine
 
 [ScreenMapping]

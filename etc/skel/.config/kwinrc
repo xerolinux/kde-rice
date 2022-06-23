@@ -11,10 +11,6 @@ Id_1=290014f1-ab74-4eff-ab3d-0f5e50435119
 Number=1
 Rows=1
 
-[Effect-Blur]
-BlurStrength=4
-NoiseStrength=0
-
 [Effect-PresentWindows]
 BorderActivateAll=9
 
@@ -23,19 +19,25 @@ Drag=85
 Stiffness=10
 WobblynessLevel=1
 
+[Effect-blur]
+BlurStrength=6
+NoiseStrength=2
+
 [ModifierOnlyShortcuts]
 Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 
 [Plugins]
 autocomposerEnabled=true
 blurEnabled=true
-contrastEnabled=false
+contrastEnabled=true
 desktopchangeosdEnabled=false
 force-decorations-gtk3Enabled=false
 forceblurEnabled=false
+kwin4_effect_dimscreenEnabled=true
 kwin4_effect_fadedesktopEnabled=true
 kwin4_effect_frozenappEnabled=false
 kwin4_effect_maximizeEnabled=false
+kwin4_effect_maximize_xrenderEnabled=true
 kwin4_effect_morphingpopupsEnabled=false
 macsimizeEnabled=false
 minimizeallEnabled=true
@@ -56,7 +58,7 @@ patterns=dolphin\nyakuake\nurxvt\nkeepassxc\nkonsole\nthunar
 
 [TabBox]
 BorderActivate=9
-LayoutName=flipswitch
+LayoutName=coverswitch
 
 [Windows]
 Placement=Centered

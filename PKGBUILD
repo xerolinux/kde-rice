@@ -2,7 +2,7 @@
 pkgname=kde-rice
 _destname1="/etc"
 pkgver=22.06
-pkgrel=3
+pkgrel=4
 pkgdesc="Desktop Config for XeroLinux"
 arch=('any')
 url="https://github.com/xerolinux"
